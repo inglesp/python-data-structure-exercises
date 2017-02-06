@@ -13,7 +13,7 @@ In each exercise, there is a Python script that contains some data, and some
 instructions for what to do with that data.
 
 Before attempting each exercise, make sure that you can describe the structure
-of the in question.
+of the data in question.
 
 You should attempt the exercises in the following order:
 
@@ -27,4 +27,4 @@ You should attempt the exercises in the following order:
 *  `browser_stats.py`
 
 For the last two, the data is in a separate file (`presidents_data.py` and
-`browser_stats.py` respectively).
+`browser_stats_data.py` respectively).
